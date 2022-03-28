@@ -1,3 +1,7 @@
 This project is for PlayWright framework using Java, TestNG ,Maven and POM
 
+
 which supports Parallel execution as well. You can use docker container to execute as well.
+
+for pull request
+
