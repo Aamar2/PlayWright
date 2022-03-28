@@ -1,2 +1,2 @@
 Currently the project support only chromium.
-it can be extended to other browsers also.
+it can be extended to other browsers also.ex: firefox, safari(webkit)
